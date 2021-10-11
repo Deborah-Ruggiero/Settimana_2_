@@ -1,16 +1,6 @@
-﻿using System;
+﻿
 
-namespace Settimana2_Calcolatrice
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-
-
-
-
-            using System;
+ using System;
 
 namespace AcademyDWeek2
     {
